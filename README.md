@@ -1,4 +1,5 @@
 # 🤖 Smart FAQ Bot - Automação de Atendimento (NLP)
+🔗 **Acesse o Projeto Online:** [Clique aqui para testar](https://smart-faq-bot-guilhermeruy.streamlit.app/)
 
 Uma ferramenta de Inteligência Artificial baseada em Processamento de Linguagem Natural (NLP), desenvolvida para automatizar o suporte de nível 1 e responder dúvidas frequentes de forma ágil.
 
@@ -30,4 +31,5 @@ Em seguida, calcula a **Similaridade de Cosseno** para encontrar a melhor corres
    pip install -r requirements.txt
 4. Execute o bot:
    ```bash
+
    streamlit run bot.py
